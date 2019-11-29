@@ -1,5 +1,5 @@
 """
-This code is wtitten in Python and Keras.
+This code is written in Python and Keras.
 
 This code implements the training of an RNN Architecture for our application 
 of human presence and movement detection. In the RNN, we use two LSTM layers.
