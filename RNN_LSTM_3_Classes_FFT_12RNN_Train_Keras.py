@@ -1,5 +1,5 @@
 """
-This code is wtitten in Python and Keras.
+This code is written in Python and Keras.
 
 This code implements the training of an RNN Architecture with 12 Parallel RNNs for our application 
 of human presence and movement detection. The classes of the classification problem are
