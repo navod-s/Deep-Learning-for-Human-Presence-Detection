@@ -1,5 +1,5 @@
 """
-This code is wtitten in Python and TensorFlow without using Keras.
+This code is written in Python and TensorFlow without using Keras.
 
 This code implements the training of an RNN Architecture for our application 
 of human presence and movement detection. We use a single-LSTM layer in this network.
